@@ -9,7 +9,7 @@
   👯 Procuro colaborar em <b>projetos web e mobile</b>.<br>
   💬 Pergunte-me sobre <b>JavaScript, HTML e CSS</b>.<br>
   📫 Como me encontrar: <a href="mailto:sh05015130405@gmail.com">sh05015130405@gmail.com</a><br>
-  ⚡ Fato curioso: Sempre busco aprender algo novo e transformar ideias em projetos reais. Já criei sistemas como <b>ScanPlant</b>, <b>EduSync</b> e <b>MotoGo</b> — unindo tecnologia e propósito! 🚀
+  ⚡ Fato curioso: Sempre busco aprender algo novo e transformar ideias em projetos reais. Já criei sistemas como <b>ScanPlant</b>, <b>Catálogo de Cursos</b>, <b>Orçamento de energia por alocação</b> e <b>entre outros</b> — unindo tecnologia e propósito! 🚀
 </p>
 
 <br>
