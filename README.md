@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://i.imgur.com/SQdYP5R.png" alt="Banner Samuel Henrique" width="100%">
-</p>
-
 <h1 align="center">👋 Olá, eu sou o Samuel Henrique!</h1>
 <h3 align="center">💻 Estudante de Desenvolvimento focado em Front-End, mas com experiência também no Back-End — de Jales/SP 📍</h3>
 
@@ -72,3 +68,5 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=samuel05015&label=Visitantes+do+Perfil&color=0e75b6&style=flat" alt="Contador de Visitantes do Perfil" />
 </p>
+
+<h4 align="center">🚀 Sempre em busca de evolução e novas oportunidades na tecnologia!</h4>
