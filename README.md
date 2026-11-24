@@ -7,6 +7,7 @@
 </p>
 
 <p align="center">
+  <a href="https://samuel-dev-cinematic.vercel.app/"><img alt="Portfólio" src="https://img.shields.io/badge/Portf%C3%B3lio-0F766E?style=for-the-badge&amp;logo=vercel&amp;logoColor=white"></a>
   <a href="https://linkedin.com/in/samuel-henrique-92b1a3278"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge"></a>
   <a href="mailto:sh05015130405@gmail.com"><img alt="E-mail" src="https://img.shields.io/badge/E--mail-334155?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"></a>
   <a href="https://github.com/samuel05015?tab=repositories"><img alt="Repositórios do GitHub" src="https://img.shields.io/badge/Reposit%C3%B3rios-334155?style=for-the-badge&amp;logo=github&amp;logoColor=white"></a>
