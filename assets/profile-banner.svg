@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="230" viewBox="0 0 960 230" role="img" aria-labelledby="title description">
+  <title id="title">Samuel Henrique</title>
+  <desc id="description">Desenvolvimento web e mobile. Um símbolo de código recebe uma breve animação orbital.</desc>
+
+  <defs>
+    <linearGradient id="panel" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop stop-color="#0d1729"/>
+      <stop offset="1" stop-color="#0d3339"/>
+    </linearGradient>
+    <linearGradient id="accent" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop stop-color="#a7f3d0"/>
+      <stop offset="1" stop-color="#34d9c3"/>
+    </linearGradient>
+    <pattern id="grid" width="25" height="25" patternUnits="userSpaceOnUse">
+      <path d="M25 0H0V25" fill="none" stroke="#b3f7e8" stroke-opacity=".08"/>
+    </pattern>
+    <clipPath id="bounds">
+      <rect width="960" height="230" rx="22"/>
+    </clipPath>
+    <radialGradient id="glow">
+      <stop stop-color="#47efd5" stop-opacity=".22"/>
+      <stop offset="1" stop-color="#47efd5" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <style>
+    @media (prefers-reduced-motion: reduce) {
+      .animated { display: none; }
+    }
+  </style>
+
+  <g clip-path="url(#bounds)">
+    <rect width="960" height="230" fill="url(#panel)"/>
+    <rect x="605" width="355" height="230" fill="url(#grid)"/>
+    <ellipse cx="788" cy="116" rx="170" ry="143" fill="url(#glow)"/>
+
+    <path d="M64 71V159" stroke="url(#accent)" stroke-width="4" stroke-linecap="round"/>
+    <g font-family="Arial, Helvetica, sans-serif">
+      <text x="88" y="111" fill="#f8fafc" font-size="59" font-weight="700" letter-spacing="-1.8">Samuel Henrique</text>
+      <text x="90" y="155" fill="#a7f3d0" font-size="27" font-weight="500">Desenvolvimento web e mobile</text>
+    </g>
+
+    <g transform="translate(786 116)">
+      <ellipse rx="114" ry="65" fill="none" stroke="#91eddb" stroke-opacity=".32" stroke-width="1.5"/>
+      <ellipse rx="88" ry="88" fill="none" stroke="#91eddb" stroke-opacity=".27" stroke-width="1" stroke-dasharray="3 6"/>
+      <circle cx="-114" r="3" fill="#78b6b0"/>
+      <circle cx="62" cy="-62" r="3" fill="#78b6b0"/>
+      <rect x="-50" y="-50" width="100" height="100" rx="23" fill="#103138" stroke="#68dfca" stroke-opacity=".55"/>
+      <path d="M-15 -15L-31 0L-15 15M15 -15L31 0L15 15M8 -24L-8 24" fill="none" stroke="url(#accent)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+
+      <g class="animated">
+        <circle r="10" fill="#6af2db" opacity=".17"/>
+        <circle r="4" fill="#bdfde9"/>
+        <animateMotion path="M114 0a114 65 0 1 1 -228 0a114 65 0 1 1 228 0" dur="4.6s" repeatCount="1" fill="freeze"/>
+      </g>
+    </g>
+  </g>
+
+  <rect x=".5" y=".5" width="959" height="229" rx="22" fill="none" stroke="#52777e" stroke-opacity=".55"/>
+</svg>
