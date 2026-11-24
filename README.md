@@ -19,10 +19,15 @@ Desenvolvo aplicações com foco no **front-end** e também tenho experiência c
 
 | Projeto | O que faz |
 | --- | --- |
-| **[ScanPlant](https://github.com/samuel05015/ScanPlant-Frontend)** | Aplicativo que usa IA para identificar plantas por foto e ajuda a organizar os cuidados com cada espécie. |
-| **[Aurora Dental Studio](https://github.com/samuel05015/Aoba)** | Landing page demonstrativa para uma clínica odontológica fictícia, com layout responsivo e formulário de contato. |
-| **Catálogo de Cursos** | Aplicação web para reunir e consultar cursos em um só lugar. |
-| **Gestão de Alocação de Energia Solar** | Sistema para acompanhar a distribuição de créditos de energia solar. |
+| **[ScanPlant](https://github.com/samuel05015/ScanPlant)** | Aplicativo que usa IA para identificar plantas por foto e ajuda a organizar os cuidados com cada espécie. |
+| **[Gênesis Solar](https://genesissolarbr.com.br/)** | Site institucional de energia solar e mobilidade elétrica, com simulador de economia e solicitação de orçamento. |
+| **[Calculadoraanalise](https://calculadoraanalise.vercel.app/)** | Calculadora de estatística que estima intervalos de confiança e tamanhos de amostra, com fórmulas explicadas passo a passo. |
+
+### Outros projetos
+
+- **[Aurora Dental Studio](https://github.com/samuel05015/Aoba)** · Landing page demonstrativa para uma clínica odontológica fictícia, com layout responsivo e formulário de contato.
+- **Catálogo de Cursos** · Aplicação web para reunir e consultar cursos em um só lugar.
+- **Gestão de Alocação de Energia Solar** · Sistema para acompanhar a distribuição de créditos de energia solar.
 
 ## Tecnologias
 
